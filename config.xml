@@ -3,7 +3,7 @@
  <widget xmlns ="http://www.w3.org/ns7widgets"
   xmlns:gap="http://phonegap.com/ns/1.0"
   id ="com.phonegap.app1"
-  version ="10.0">
+  version ="1.0.0">
   
    <name>app1-2018 Datos del Dispositivo</name>
    
@@ -37,5 +37,5 @@
 	  
  <icon src="res/android/mdpi.png"/>
  
- <widget
+ </widget>
 	  
